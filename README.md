@@ -6,6 +6,12 @@ I work across the stack, care about clean architecture, and like learning the to
 
 ---
 
+## 🌐 Socials
+
+<!-- Keep your existing social links here -->
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -28,6 +34,7 @@ I work across the stack, care about clean architecture, and like learning the to
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=ffffff)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=ffffff)
 ![REST%20API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge\&logo=postman\&logoColor=ffffff)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge\&logo=socketdotio\&logoColor=ffffff)
@@ -60,7 +67,7 @@ I work across the stack, care about clean architecture, and like learning the to
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvxvaishnav&layout=compact&theme=tokyonight&hide_border=true&hide=c,c%2B%2B" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvxvaishnav&layout=compact&theme=tokyonight&hide_border=true&hide=c,c%2B" />
 </p>
 
 ---
@@ -114,7 +121,3 @@ Building products that are:
 * Strong focus on learning and improving fast
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvxvaishnav&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
