@@ -6,12 +6,6 @@ I work across the stack, care about clean architecture, and like learning the to
 
 ---
 
-## 🌐 Socials
-
-<!-- Keep your existing social links here -->
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
