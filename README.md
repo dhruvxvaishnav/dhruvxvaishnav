@@ -22,7 +22,7 @@ I work across the stack, care about clean architecture, and like learning the to
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=ffffff)
-![Framer%20Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=ffffff)
 
 ### Backend
 
@@ -30,7 +30,7 @@ I work across the stack, care about clean architecture, and like learning the to
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=ffffff)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=ffffff)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=ffffff)
-![REST%20API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge\&logo=postman\&logoColor=ffffff)
+![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge\&logo=postman\&logoColor=ffffff)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge\&logo=socketdotio\&logoColor=ffffff)
 
 ### Databases & Cache
@@ -53,15 +53,15 @@ I work across the stack, care about clean architecture, and like learning the to
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvxvaishnav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvxvaishnav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhruvxvaishnav&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dhruvxvaishnav&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvxvaishnav&layout=compact&theme=tokyonight&hide_border=true&hide=c,c%2B" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvxvaishnav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=c%2Cc%2B%2B" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I work across the stack, care about clean architecture, and like learning the to
 * JWT authentication and authorization
 * OAuth and social login flows
 * RESTful API design
-* WebSocket based realtime systems
+* WebSocket-based realtime systems
 * Database indexing and query optimization
 * Caching with Redis
 * Dockerized deployments
@@ -113,5 +113,3 @@ Building products that are:
 * Interest in systems programming with Rust
 * Practical knowledge of shipping real projects
 * Strong focus on learning and improving fast
-
----
