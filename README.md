@@ -53,15 +53,7 @@ I work across the stack, care about clean architecture, and like learning the to
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvxvaishnav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=dhruvxvaishnav&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvxvaishnav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=c%2Cc%2B%2B&cache_seconds=86400" />
 </p>
 
 ---
